@@ -1,0 +1,1641 @@
+[
+    {
+        "name": "赛亚烈战",
+        "channel": "dt_game",
+        "code": "1043",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1043.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "灌篮大师",
+        "channel": "dt_game",
+        "code": "1044",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1044.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "格斗之魂",
+        "channel": "dt_game",
+        "code": "1045",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1045.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "拳皇98",
+        "channel": "dt_game",
+        "code": "1046",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1046.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "赤壁之战",
+        "channel": "dt_game",
+        "code": "1047",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1047.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "NINJA",
+        "channel": "dt_game",
+        "code": "1048",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1048.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海贼王",
+        "channel": "dt_game",
+        "code": "1049",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1049.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "灌篮大师2",
+        "channel": "dt_game",
+        "code": "1050",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1050.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "五行世界",
+        "channel": "dt_game",
+        "code": "1051",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1051.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "哆啦A梦",
+        "channel": "dt_game",
+        "code": "1052",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1052.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海盗无双",
+        "channel": "dt_game",
+        "code": "1053",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1053.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "梦幻森林",
+        "channel": "dt_game",
+        "code": "1054",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1054.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "高达",
+        "channel": "dt_game",
+        "code": "1055",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1055.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "圣域传说",
+        "channel": "dt_game",
+        "code": "1056",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1056.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "街霸",
+        "channel": "dt_game",
+        "code": "1057",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1057.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "财神到",
+        "channel": "dt_game",
+        "code": "1058",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1058.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "新年到",
+        "channel": "dt_game",
+        "code": "1059",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1059.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "武松传",
+        "channel": "dt_game",
+        "code": "1060",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1060.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "阿拉丁神灯",
+        "channel": "dt_game",
+        "code": "1061",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1061.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "降妖传奇",
+        "channel": "dt_game",
+        "code": "1062",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1062.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水浒传",
+        "channel": "dt_game",
+        "code": "1063",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1063.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "西游记",
+        "channel": "dt_game",
+        "code": "1064",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1064.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "封神榜",
+        "channel": "dt_game",
+        "code": "1065",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1065.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "西游降妖",
+        "channel": "dt_game",
+        "code": "1066",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1066.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "白蛇传",
+        "channel": "dt_game",
+        "code": "1067",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1067.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "劲爆篮球",
+        "channel": "dt_game",
+        "code": "1068",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1068.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "龙凤呈祥",
+        "channel": "dt_game",
+        "code": "1069",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1069.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "英雄荣耀",
+        "channel": "dt_game",
+        "code": "1070",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1070.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "仙剑奇缘",
+        "channel": "dt_game",
+        "code": "1071",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1071.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "福禄寿",
+        "channel": "dt_game",
+        "code": "1072",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1072.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "四圣兽",
+        "channel": "dt_game",
+        "code": "1073",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1073.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "夜店之王",
+        "channel": "dt_game",
+        "code": "1074",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1074.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "3D老虎机",
+        "channel": "dt_game",
+        "code": "1075",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1075.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "Ninja內抉择游戏",
+        "channel": "dt_game",
+        "code": "1079",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1079.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "传奇之路",
+        "channel": "dt_game",
+        "code": "1393",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1393.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "摇滚之夜",
+        "channel": "dt_game",
+        "code": "1503",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1503.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "深蓝海域",
+        "channel": "dt_game",
+        "code": "1504",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1504.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "快乐农庄",
+        "channel": "dt_game",
+        "code": "1505",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1505.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "疯狂马戏团",
+        "channel": "dt_game",
+        "code": "1506",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1506.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "四驱英雄",
+        "channel": "dt_game",
+        "code": "1507",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1507.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "四驱大赛",
+        "channel": "dt_game",
+        "code": "1539",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1539.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "比基尼派对",
+        "channel": "dt_game",
+        "code": "1540",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1540.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "圣战骑士",
+        "channel": "dt_game",
+        "code": "1542",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1542.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "地产大亨",
+        "channel": "dt_game",
+        "code": "1548",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1548.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海盗宝藏",
+        "channel": "dt_game",
+        "code": "1559",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1559.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "幕府风云",
+        "channel": "dt_game",
+        "code": "1560",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1560.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "圣诞快乐",
+        "channel": "dt_game",
+        "code": "1563",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1563.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "致青春",
+        "channel": "dt_game",
+        "code": "1564",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1564.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "倾城四美",
+        "channel": "dt_game",
+        "code": "1568",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1568.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "甜蜜糖果屋",
+        "channel": "dt_game",
+        "code": "1569",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1569.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "王者传奇",
+        "channel": "dt_game",
+        "code": "1570",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1570.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "麻辣火锅",
+        "channel": "dt_game",
+        "code": "1592",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1592.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "喜气冲天",
+        "channel": "dt_game",
+        "code": "1593",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1593.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "曲艺大秀场",
+        "channel": "dt_game",
+        "code": "1594",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1594.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "夜影传说",
+        "channel": "dt_game",
+        "code": "1595",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1595.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "丧尸来袭",
+        "channel": "dt_game",
+        "code": "1596",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1596.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "全能侦探",
+        "channel": "dt_game",
+        "code": "1597",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1597.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "满堂红",
+        "channel": "dt_game",
+        "code": "1598",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1598.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "雷霆神域",
+        "channel": "dt_game",
+        "code": "1599",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1599.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "HOGA",
+        "channel": "dt_game",
+        "code": "1602",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1602.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "铁拳擂台",
+        "channel": "dt_game",
+        "code": "1604",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1604.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "八仙过海",
+        "channel": "dt_game",
+        "code": "1605",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1605.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "热血街头",
+        "channel": "dt_game",
+        "code": "1622",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1622.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "精灵王国",
+        "channel": "dt_game",
+        "code": "1626",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1626.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "埃及帝国",
+        "channel": "dt_game",
+        "code": "1660",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1660.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "街机水浒传",
+        "channel": "dt_game",
+        "code": "1666",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1666.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "火锅盛宴",
+        "channel": "dt_game",
+        "code": "1667",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1667.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "大魔术师",
+        "channel": "dt_game",
+        "code": "1672",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1672.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "大亨小传",
+        "channel": "dt_game",
+        "code": "1673",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1673.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "战甲危机",
+        "channel": "dt_game",
+        "code": "1674",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1674.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "银河战争",
+        "channel": "dt_game",
+        "code": "1676",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1676.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "逍遥骑士",
+        "channel": "dt_game",
+        "code": "1677",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1677.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "比武招亲",
+        "channel": "dt_game",
+        "code": "1678",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1678.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "决战世界杯",
+        "channel": "dt_game",
+        "code": "1679",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1679.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金玉满堂",
+        "channel": "dt_game",
+        "code": "1696",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1696.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "深夜食堂",
+        "channel": "dt_game",
+        "code": "1735",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1735.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "寻宝之旅",
+        "channel": "dt_game",
+        "code": "1756",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1756.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "发发发",
+        "channel": "dt_game",
+        "code": "1779",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1779.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "五行封神榜",
+        "channel": "dt_game",
+        "code": "1780",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1780.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海洋游乐场",
+        "channel": "dt_game",
+        "code": "1784",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1784.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "官人我要",
+        "channel": "dt_game",
+        "code": "1785",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1785.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "热浪夏威夷",
+        "channel": "dt_game",
+        "code": "1786",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1786.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "武圣关公",
+        "channel": "dt_game",
+        "code": "1787",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1787.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "真吕布无双",
+        "channel": "dt_game",
+        "code": "1788",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1788.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "法兰西风情",
+        "channel": "dt_game",
+        "code": "1789",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1789.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "仙侠情缘",
+        "channel": "dt_game",
+        "code": "1798",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1798.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "阿拉丁愿望",
+        "channel": "dt_game",
+        "code": "1803",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1803.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "小小大花园",
+        "channel": "dt_game",
+        "code": "1813",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1813.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "丛林探险",
+        "channel": "dt_game",
+        "code": "1814",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1814.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "荣耀风云",
+        "channel": "dt_game",
+        "code": "1823",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1823.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "快乐甜品",
+        "channel": "dt_game",
+        "code": "1824",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1824.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "时代巨星",
+        "channel": "dt_game",
+        "code": "1825",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1825.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "疯狂炼金师",
+        "channel": "dt_game",
+        "code": "1833",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1833.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "3D娃娃机",
+        "channel": "dt_game",
+        "code": "1834",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1834.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "恐龙世界",
+        "channel": "dt_game",
+        "code": "1837",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1837.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "这就是！街舞",
+        "channel": "dt_game",
+        "code": "1838",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1838.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "全民狂欢",
+        "channel": "dt_game",
+        "code": "1839",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1839.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "古潼京",
+        "channel": "dt_game",
+        "code": "1849",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1849.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "乱斗三国",
+        "channel": "dt_game",
+        "code": "1850",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1850.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "魔性表情包",
+        "channel": "dt_game",
+        "code": "1852",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1852.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "冰火之歌",
+        "channel": "dt_game",
+        "code": "1853",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1853.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "传奇霸业",
+        "channel": "dt_game",
+        "code": "1854",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1854.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "地鼠嘎嘣脆",
+        "channel": "dt_game",
+        "code": "1857",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1857.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "兰桂坊",
+        "channel": "dt_game",
+        "code": "1859",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1859.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "魔豆传奇",
+        "channel": "dt_game",
+        "code": "1869",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1869.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "猪年大吉",
+        "channel": "dt_game",
+        "code": "1875",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1875.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "DT消消乐",
+        "channel": "dt_game",
+        "code": "1876",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1876.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "幸运数字",
+        "channel": "dt_game",
+        "code": "1877",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1877.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "美味西餐厅",
+        "channel": "dt_game",
+        "code": "1880",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1880.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "财神过年",
+        "channel": "dt_game",
+        "code": "1881",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1881.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "现金红包",
+        "channel": "dt_game",
+        "code": "1882",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1882.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "赌场大亨",
+        "channel": "dt_game",
+        "code": "1994",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1994.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "秘密约会",
+        "channel": "dt_game",
+        "code": "1995",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/1995.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "老子是皇帝",
+        "channel": "dt_game",
+        "code": "2233",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2233.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "温泉物语",
+        "channel": "dt_game",
+        "code": "2234",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2234.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "萌菌实验室",
+        "channel": "dt_game",
+        "code": "2403",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2403.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "守护萌主",
+        "channel": "dt_game",
+        "code": "2404",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2404.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "热血棒球",
+        "channel": "dt_game",
+        "code": "2405",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2405.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "街头劲舞",
+        "channel": "dt_game",
+        "code": "2406",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2406.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "心动女主播",
+        "channel": "dt_game",
+        "code": "2425",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2425.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "奇妙博物馆",
+        "channel": "dt_game",
+        "code": "2451",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2451.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "巨石迷阵",
+        "channel": "dt_game",
+        "code": "2677",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2677.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "罪恶都市 ",
+        "channel": "dt_game",
+        "code": "2819",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2819.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "燃烧星球",
+        "channel": "dt_game",
+        "code": "2820",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2820.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "秘境之轮",
+        "channel": "dt_game",
+        "code": "2844",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2844.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "谁是首富",
+        "channel": "dt_game",
+        "code": "2876",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2876.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "西部荒野",
+        "channel": "dt_game",
+        "code": "2914",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2914.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "三国杀",
+        "channel": "dt_game",
+        "code": "2935",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2935.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "皇权天下",
+        "channel": "dt_game",
+        "code": "2936",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2936.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "荒野追捕",
+        "channel": "dt_game",
+        "code": "2937",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2937.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "血狼传说",
+        "channel": "dt_game",
+        "code": "2938",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2938.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "女巫派对",
+        "channel": "dt_game",
+        "code": "2939",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2939.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "蜜糖王国",
+        "channel": "dt_game",
+        "code": "2957",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2957.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "黄金号",
+        "channel": "dt_game",
+        "code": "2982",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/2982.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "拳霸天下",
+        "channel": "dt_game",
+        "code": "3006",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3006.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水手服战士",
+        "channel": "dt_game",
+        "code": "3007",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3007.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "无限俱乐部",
+        "channel": "dt_game",
+        "code": "3008",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3008.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "哪吒传奇",
+        "channel": "dt_game",
+        "code": "3009",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3009.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "流浪星球",
+        "channel": "dt_game",
+        "code": "3027",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3027.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "斩龙自走棋",
+        "channel": "dt_game",
+        "code": "3059",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3059.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "今晚吃鸡",
+        "channel": "dt_game",
+        "code": "3060",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3060.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "摇滚之夜2-烈焰777",
+        "channel": "dt_game",
+        "code": "3061",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3061.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "寻宝之旅2",
+        "channel": "dt_game",
+        "code": "3062",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3062.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "不愤怒的小鸟",
+        "channel": "dt_game",
+        "code": "3063",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3063.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金鼠迎春",
+        "channel": "dt_game",
+        "code": "3064",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3064.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "性感女团",
+        "channel": "dt_game",
+        "code": "3065",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3065.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "霸道总裁",
+        "channel": "dt_game",
+        "code": "3112",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3112.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "冰海传奇",
+        "channel": "dt_game",
+        "code": "3113",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3113.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "秘密宝藏",
+        "channel": "dt_game",
+        "code": "3114",
+        "gametype": "h5",
+        "categoryid": "game_lobby_dt_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/dt_game/3114.png"
+        },
+        "mark": 0
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "贵州捉鸡",
+        "channel": "qipai",
+        "code": "gjjj",
+        "gametype": "mahjong",
+        "categoryid": "game_lobby_mj",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/mj/gjjj.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "红中麻将",
+        "channel": "qipai",
+        "code": "hzmj",
+        "gametype": "mahjong",
+        "categoryid": "game_lobby_mj",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/mj/hzmj.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "血流成河",
+        "channel": "qipai",
+        "code": "xlch",
+        "gametype": "mahjong",
+        "categoryid": "game_lobby_mj",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/mj/xlch.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "血战到底",
+        "channel": "qipai",
+        "code": "xzdd",
+        "gametype": "mahjong",
+        "categoryid": "game_lobby_mj",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/mj/xzdd.png"
+        },
+        "mark": 0
+    }
+]

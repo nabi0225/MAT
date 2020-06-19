@@ -1,0 +1,80 @@
+[
+    {
+        "name": "BBIN视讯厅",
+        "channel": "bbin_video",
+        "code": "1357",
+        "gametype": "h5",
+        "categoryid": "game_lobby_video",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/bbin_d.png",
+            "active": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/bbin_a.png",
+            "large": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/bbin.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "AG视讯厅",
+        "channel": "ag_video",
+        "code": "508",
+        "gametype": "h5",
+        "categoryid": "game_lobby_video",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/ag_d.png",
+            "active": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/ag_a.png",
+            "large": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/ag.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "DG视讯",
+        "channel": "dg_video",
+        "code": "3120",
+        "gametype": "h5",
+        "categoryid": "game_lobby_video",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/dg_d.png",
+            "active": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/dg_a.png",
+            "large": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/dg.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "MG亚洲厅",
+        "channel": "mg_video",
+        "code": "1586",
+        "gametype": "h5",
+        "categoryid": "game_lobby_video",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/mgasia_d.png",
+            "active": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/mgasia_a.png",
+            "large": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/mgasia.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "MG欧美厅",
+        "channel": "mg_video",
+        "code": "977",
+        "gametype": "h5",
+        "categoryid": "game_lobby_video",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/mgom_d.png",
+            "active": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/mgom_a.png",
+            "large": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/mgom.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "GC甜心主播厅",
+        "channel": "gc_video",
+        "code": "1395",
+        "gametype": "h5",
+        "categoryid": "game_lobby_video",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/gc_d.png",
+            "active": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/gc_a.png",
+            "large": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/video/gc.png"
+        },
+        "mark": 0
+    }
+]

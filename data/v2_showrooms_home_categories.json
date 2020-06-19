@@ -1,0 +1,20 @@
+[
+    {
+        "id": "home_hot",
+        "title": "热门游戏",
+        "connectionlinkcode": "hot",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/category/hot.png"
+        },
+        "subcategories": []
+    },
+    {
+        "id": "home_recent",
+        "title": "最近游玩",
+        "connectionlinkcode": "recent",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/category/rcnt.png"
+        },
+        "subcategories": []
+    }
+]

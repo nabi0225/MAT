@@ -1,0 +1,1828 @@
+[
+    {
+        "name": "惑星战记",
+        "channel": "bbin_game",
+        "code": "1231",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1231.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "Starburst",
+        "channel": "bbin_game",
+        "code": "1232",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1232.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "激爆水果盘",
+        "channel": "bbin_game",
+        "code": "1233",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1233.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "猴子爬树",
+        "channel": "bbin_game",
+        "code": "1234",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1234.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金刚爬楼",
+        "channel": "bbin_game",
+        "code": "1235",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1235.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "西游记",
+        "channel": "bbin_game",
+        "code": "1236",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1236.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "外星争霸",
+        "channel": "bbin_game",
+        "code": "1237",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1237.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "传统",
+        "channel": "bbin_game",
+        "code": "1238",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1238.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "丛林",
+        "channel": "bbin_game",
+        "code": "1239",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1239.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "FIFA2010",
+        "channel": "bbin_game",
+        "code": "1240",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1240.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "史前丛林冒险",
+        "channel": "bbin_game",
+        "code": "1241",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1241.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "星际大战",
+        "channel": "bbin_game",
+        "code": "1242",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1242.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "齐天大圣",
+        "channel": "bbin_game",
+        "code": "1243",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1243.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水果乐园",
+        "channel": "bbin_game",
+        "code": "1244",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1244.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "热带风情",
+        "channel": "bbin_game",
+        "code": "1245",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1245.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "法海斗白蛇",
+        "channel": "bbin_game",
+        "code": "1246",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1246.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "2012 伦敦奥运",
+        "channel": "bbin_game",
+        "code": "1247",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1247.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "功夫龙",
+        "channel": "bbin_game",
+        "code": "1248",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1248.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "中秋月光派对",
+        "channel": "bbin_game",
+        "code": "1249",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1249.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "圣诞派对",
+        "channel": "bbin_game",
+        "code": "1250",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1250.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "幸运财神",
+        "channel": "bbin_game",
+        "code": "1251",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1251.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "王牌5PK",
+        "channel": "bbin_game",
+        "code": "1252",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1252.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "加勒比扑克",
+        "channel": "bbin_game",
+        "code": "1253",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1253.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "鱼虾蟹",
+        "channel": "bbin_game",
+        "code": "1254",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1254.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "百搭二王",
+        "channel": "bbin_game",
+        "code": "1255",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1255.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "7PK",
+        "channel": "bbin_game",
+        "code": "1256",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1256.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "异星战场",
+        "channel": "bbin_game",
+        "code": "1257",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1257.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "尸乐园",
+        "channel": "bbin_game",
+        "code": "1258",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1258.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "特务危机",
+        "channel": "bbin_game",
+        "code": "1259",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1259.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "玉蒲团",
+        "channel": "bbin_game",
+        "code": "1260",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1260.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "战火佳人",
+        "channel": "bbin_game",
+        "code": "1261",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1261.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "明星97",
+        "channel": "bbin_game",
+        "code": "1262",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1262.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "疯狂水果盘",
+        "channel": "bbin_game",
+        "code": "1263",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1263.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "马戏团",
+        "channel": "bbin_game",
+        "code": "1264",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1264.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "动物奇观五",
+        "channel": "bbin_game",
+        "code": "1265",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1265.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "超级7",
+        "channel": "bbin_game",
+        "code": "1266",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1266.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "龙在囧途",
+        "channel": "bbin_game",
+        "code": "1267",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1267.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水果拉霸",
+        "channel": "bbin_game",
+        "code": "1268",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1268.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "扑克拉霸",
+        "channel": "bbin_game",
+        "code": "1269",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1269.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "筒子拉霸",
+        "channel": "bbin_game",
+        "code": "1270",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1270.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "足球拉霸",
+        "channel": "bbin_game",
+        "code": "1271",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1271.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "黄金大转轮",
+        "channel": "bbin_game",
+        "code": "1272",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1272.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "百家乐大转轮",
+        "channel": "bbin_game",
+        "code": "1273",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1273.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "数字大转轮",
+        "channel": "bbin_game",
+        "code": "1274",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1274.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水果大转轮",
+        "channel": "bbin_game",
+        "code": "1275",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1275.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "象棋大转轮",
+        "channel": "bbin_game",
+        "code": "1276",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1276.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "3D数字大转轮",
+        "channel": "bbin_game",
+        "code": "1277",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1277.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "乐透转轮",
+        "channel": "bbin_game",
+        "code": "1278",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1278.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "钻石列车",
+        "channel": "bbin_game",
+        "code": "1279",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1279.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "圣兽传说",
+        "channel": "bbin_game",
+        "code": "1280",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1280.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海底派对",
+        "channel": "bbin_game",
+        "code": "1281",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1281.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "斗大",
+        "channel": "bbin_game",
+        "code": "1282",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1282.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "红狗",
+        "channel": "bbin_game",
+        "code": "1283",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1283.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "三国拉霸",
+        "channel": "bbin_game",
+        "code": "1284",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1284.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "封神榜",
+        "channel": "bbin_game",
+        "code": "1285",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1285.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金瓶梅",
+        "channel": "bbin_game",
+        "code": "1286",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1286.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金瓶梅2",
+        "channel": "bbin_game",
+        "code": "1287",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1287.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "斗鸡",
+        "channel": "bbin_game",
+        "code": "1288",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1288.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "欧式轮盘",
+        "channel": "bbin_game",
+        "code": "1289",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1289.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "美式轮盘",
+        "channel": "bbin_game",
+        "code": "1290",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1290.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "彩金轮盘",
+        "channel": "bbin_game",
+        "code": "1291",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1291.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "法式轮盘",
+        "channel": "bbin_game",
+        "code": "1292",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1292.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "三国",
+        "channel": "bbin_game",
+        "code": "1293",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1293.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "经典21点",
+        "channel": "bbin_game",
+        "code": "1294",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1294.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "西班牙21点",
+        "channel": "bbin_game",
+        "code": "1295",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1295.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "维加斯21点",
+        "channel": "bbin_game",
+        "code": "1296",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1296.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "奖金21点",
+        "channel": "bbin_game",
+        "code": "1297",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1297.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "皇家德州扑克",
+        "channel": "bbin_game",
+        "code": "1298",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1298.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "火焰山",
+        "channel": "bbin_game",
+        "code": "1299",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1299.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "月光宝盒",
+        "channel": "bbin_game",
+        "code": "1300",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1300.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "爱你一万年",
+        "channel": "bbin_game",
+        "code": "1301",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1301.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "2014 FIFA",
+        "channel": "bbin_game",
+        "code": "1302",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1302.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "天山侠侣传",
+        "channel": "bbin_game",
+        "code": "1303",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1303.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "夜市人生",
+        "channel": "bbin_game",
+        "code": "1304",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1304.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "七剑传说",
+        "channel": "bbin_game",
+        "code": "1305",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1305.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "沙滩排球",
+        "channel": "bbin_game",
+        "code": "1306",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1306.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "暗器之王",
+        "channel": "bbin_game",
+        "code": "1307",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1307.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "神舟27",
+        "channel": "bbin_game",
+        "code": "1308",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1308.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "大红帽与小野狼",
+        "channel": "bbin_game",
+        "code": "1309",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1309.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "秘境冒险",
+        "channel": "bbin_game",
+        "code": "1310",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1310.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "连连看",
+        "channel": "bbin_game",
+        "code": "1311",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1311.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "发达啰",
+        "channel": "bbin_game",
+        "code": "1312",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1312.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "斗牛",
+        "channel": "bbin_game",
+        "code": "1313",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1313.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "聚宝盆",
+        "channel": "bbin_game",
+        "code": "1314",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1314.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "浓情巧克力",
+        "channel": "bbin_game",
+        "code": "1315",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1315.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金钱豹",
+        "channel": "bbin_game",
+        "code": "1316",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1316.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海豚世界",
+        "channel": "bbin_game",
+        "code": "1317",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1317.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "阿基里斯",
+        "channel": "bbin_game",
+        "code": "1318",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1318.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "阿兹特克宝藏",
+        "channel": "bbin_game",
+        "code": "1319",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1319.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "大明星",
+        "channel": "bbin_game",
+        "code": "1320",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1320.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "凯萨帝国",
+        "channel": "bbin_game",
+        "code": "1321",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1321.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "奇幻花园",
+        "channel": "bbin_game",
+        "code": "1322",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1322.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "浪人武士",
+        "channel": "bbin_game",
+        "code": "1323",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1323.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "空战英豪",
+        "channel": "bbin_game",
+        "code": "1324",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1324.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "航海时代",
+        "channel": "bbin_game",
+        "code": "1325",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1325.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "狂欢夜",
+        "channel": "bbin_game",
+        "code": "1326",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1326.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "国际足球",
+        "channel": "bbin_game",
+        "code": "1327",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1327.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "发大财",
+        "channel": "bbin_game",
+        "code": "1328",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1328.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "恶龙传说",
+        "channel": "bbin_game",
+        "code": "1329",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1329.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金莲",
+        "channel": "bbin_game",
+        "code": "1330",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1330.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金矿工",
+        "channel": "bbin_game",
+        "code": "1331",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1331.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "老船长",
+        "channel": "bbin_game",
+        "code": "1332",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1332.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "霸王龙",
+        "channel": "bbin_game",
+        "code": "1333",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1333.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "高球之旅",
+        "channel": "bbin_game",
+        "code": "1334",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1334.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "高速卡车",
+        "channel": "bbin_game",
+        "code": "1335",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1335.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "沉默武士",
+        "channel": "bbin_game",
+        "code": "1336",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1336.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "喜福牛年",
+        "channel": "bbin_game",
+        "code": "1337",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1337.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "龙卷风",
+        "channel": "bbin_game",
+        "code": "1338",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1338.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "喜福猴年",
+        "channel": "bbin_game",
+        "code": "1339",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1339.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "连环夺宝",
+        "channel": "bbin_game",
+        "code": "1340",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1340.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "糖果派对",
+        "channel": "bbin_game",
+        "code": "1341",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1341.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "秦皇祕宝",
+        "channel": "bbin_game",
+        "code": "1342",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1342.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "JACKPOT",
+        "channel": "bbin_game",
+        "code": "1343",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1343.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "蒸气炸弹",
+        "channel": "bbin_game",
+        "code": "1360",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1360.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "小e夺宝",
+        "channel": "bbin_game",
+        "code": "1361",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1361.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "趣味台球",
+        "channel": "bbin_game",
+        "code": "1362",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1362.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "糖果派对2",
+        "channel": "bbin_game",
+        "code": "1363",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1363.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "酷搜马戏团",
+        "channel": "bbin_game",
+        "code": "1370",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1370.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "欧式轮盘",
+        "channel": "bbin_game",
+        "code": "1390",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1390.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "明星97II",
+        "channel": "bbin_game",
+        "code": "1391",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1391.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "外星战记",
+        "channel": "bbin_game",
+        "code": "1392",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1392.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "经典高球",
+        "channel": "bbin_game",
+        "code": "1541",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1541.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "魔法元素",
+        "channel": "bbin_game",
+        "code": "1565",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1565.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "连环夺宝2",
+        "channel": "bbin_game",
+        "code": "1571",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1571.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "五福临门",
+        "channel": "bbin_game",
+        "code": "1572",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1572.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金狗旺岁",
+        "channel": "bbin_game",
+        "code": "1573",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1573.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "森林舞会",
+        "channel": "bbin_game",
+        "code": "1624",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1624.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "斗魂\t",
+        "channel": "bbin_game",
+        "code": "1670",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1670.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海底世界",
+        "channel": "bbin_game",
+        "code": "1671",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1671.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "七夕",
+        "channel": "bbin_game",
+        "code": "1755",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1755.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "夜上海",
+        "channel": "bbin_game",
+        "code": "1820",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1820.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "神秘岛",
+        "channel": "bbin_game",
+        "code": "1821",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1821.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "经典21点",
+        "channel": "bbin_game",
+        "code": "1822",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1822.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "女娲补天",
+        "channel": "bbin_game",
+        "code": "1835",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1835.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "跳高高",
+        "channel": "bbin_game",
+        "code": "1840",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1840.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "跳起来",
+        "channel": "bbin_game",
+        "code": "1841",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1841.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "绝地求生",
+        "channel": "bbin_game",
+        "code": "1851",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1851.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "多福多财",
+        "channel": "bbin_game",
+        "code": "1870",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1870.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "夹猪珠",
+        "channel": "bbin_game",
+        "code": "1871",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1871.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "球球大作战",
+        "channel": "bbin_game",
+        "code": "1878",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1878.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "熊猫乐园",
+        "channel": "bbin_game",
+        "code": "1904",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1904.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "魔光幻音",
+        "channel": "bbin_game",
+        "code": "1958",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/1958.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "奧林帕斯",
+        "channel": "bbin_game",
+        "code": "2003",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/2003.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "糖果派对3",
+        "channel": "bbin_game",
+        "code": "2673",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/2673.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "斗牛赢家",
+        "channel": "bbin_game",
+        "code": "2704",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/2704.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "财富滚滚",
+        "channel": "bbin_game",
+        "code": "2833",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/2833.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "财富选择",
+        "channel": "bbin_game",
+        "code": "2834",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/2834.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "财富满堂",
+        "channel": "bbin_game",
+        "code": "2835",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/2835.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "情人夜",
+        "channel": "bbin_game",
+        "code": "2855",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/2855.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "糖果派",
+        "channel": "bbin_game",
+        "code": "2856",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/2856.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "宝石传奇",
+        "channel": "bbin_game",
+        "code": "2857",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/2857.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "初音大进击",
+        "channel": "bbin_game",
+        "code": "3004",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3004.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "九尾狐",
+        "channel": "bbin_game",
+        "code": "3005",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3005.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "财富88",
+        "channel": "bbin_game",
+        "code": "3047",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3047.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "Jenga",
+        "channel": "bbin_game",
+        "code": "3048",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3048.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "东海龙宫",
+        "channel": "bbin_game",
+        "code": "3057",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3057.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "三元四喜",
+        "channel": "bbin_game",
+        "code": "3080",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3080.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "祖玛帝国",
+        "channel": "bbin_game",
+        "code": "3084",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3084.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "雷神索尔",
+        "channel": "bbin_game",
+        "code": "3105",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3105.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "埃及傳奇",
+        "channel": "bbin_game",
+        "code": "3110",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3110.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "瘋狂麥斯",
+        "channel": "bbin_game",
+        "code": "3111",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3111.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "迴转寿司",
+        "channel": "bbin_game",
+        "code": "3115",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3115.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "糖果派对-极速版",
+        "channel": "bbin_game",
+        "code": "3132",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3132.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "战神",
+        "channel": "bbin_game",
+        "code": "3150",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3150.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "开心蛋",
+        "channel": "bbin_game",
+        "code": "3168",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3168.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "葫芦娃",
+        "channel": "bbin_game",
+        "code": "3172",
+        "gametype": "h5",
+        "categoryid": "game_lobby_bbin_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/bbin_game/3172.png"
+        },
+        "mark": 0
+    }
+]

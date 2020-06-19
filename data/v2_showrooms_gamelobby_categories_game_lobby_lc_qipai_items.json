@@ -1,0 +1,288 @@
+[
+    {
+        "name": "LC大厅",
+        "channel": "lc_qipai",
+        "code": "1883",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1883.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "德州扑克",
+        "channel": "lc_qipai",
+        "code": "1884",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1884.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "二八杠",
+        "channel": "lc_qipai",
+        "code": "1885",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1885.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "抢庄牛牛",
+        "channel": "lc_qipai",
+        "code": "1886",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1886.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "炸金花",
+        "channel": "lc_qipai",
+        "code": "1887",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1887.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "三公",
+        "channel": "lc_qipai",
+        "code": "1888",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1888.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "龙虎斗",
+        "channel": "lc_qipai",
+        "code": "1889",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1889.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "21点",
+        "channel": "lc_qipai",
+        "code": "1890",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1890.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "通比牛牛",
+        "channel": "lc_qipai",
+        "code": "1891",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1891.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "抢庄牌九",
+        "channel": "lc_qipai",
+        "code": "1892",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1892.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "十三水",
+        "channel": "lc_qipai",
+        "code": "1893",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1893.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "百家乐",
+        "channel": "lc_qipai",
+        "code": "1894",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1894.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "斗地主",
+        "channel": "lc_qipai",
+        "code": "1895",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1895.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "跑得快",
+        "channel": "lc_qipai",
+        "code": "1896",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/1896.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "看四张抢庄牛",
+        "channel": "lc_qipai",
+        "code": "2437",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2437.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "百人牛牛",
+        "channel": "lc_qipai",
+        "code": "2440",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2440.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "红黑大战",
+        "channel": "lc_qipai",
+        "code": "2449",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2449.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "抢庄五选三",
+        "channel": "lc_qipai",
+        "code": "2450",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2450.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "癞子牛牛",
+        "channel": "lc_qipai",
+        "code": "2827",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2827.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "百人骰宝",
+        "channel": "lc_qipai",
+        "code": "2828",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2828.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "抢庄21点",
+        "channel": "lc_qipai",
+        "code": "2829",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2829.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "看牌抢庄三公",
+        "channel": "lc_qipai",
+        "code": "2830",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2830.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "欢乐斗牛",
+        "channel": "lc_qipai",
+        "code": "2831",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2831.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "3+2炸金花",
+        "channel": "lc_qipai",
+        "code": "2877",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2877.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "疯狂6张牛牛",
+        "channel": "lc_qipai",
+        "code": "2878",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2878.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "十点半",
+        "channel": "lc_qipai",
+        "code": "2879",
+        "gametype": "h5",
+        "categoryid": "game_lobby_lc_qipai",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/lc_qipai/2879.png"
+        },
+        "mark": 0
+    }
+]

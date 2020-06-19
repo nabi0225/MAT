@@ -1,0 +1,46 @@
+[
+    {
+        "name": "BBIN 体育",
+        "channel": "bbin_sport",
+        "code": "1358",
+        "gametype": "h5",
+        "categoryid": "game_lobby_sport",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/sport/1358.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "HG体育",
+        "channel": "hg_sport",
+        "code": "3030",
+        "gametype": "h5",
+        "categoryid": "game_lobby_sport",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/sport/3030.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "沙巴入口",
+        "channel": "sb_sportbooks",
+        "code": "1080",
+        "gametype": "h5",
+        "categoryid": "game_lobby_sport",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/sport/1080.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "三昇体育",
+        "channel": "ss_sport",
+        "code": "2816",
+        "gametype": "h5",
+        "categoryid": "game_lobby_sport",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/sport/2816.png"
+        },
+        "mark": 0
+    }
+]

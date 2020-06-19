@@ -1,0 +1,1784 @@
+[
+    {
+        "name": "富贵金鸡",
+        "channel": "ag_game",
+        "code": "1041",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1041.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水果拉霸",
+        "channel": "ag_game",
+        "code": "128",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/128.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "杰克高手",
+        "channel": "ag_game",
+        "code": "129",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/129.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "美女沙排",
+        "channel": "ag_game",
+        "code": "130",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/130.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "运财羊",
+        "channel": "ag_game",
+        "code": "131",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/131.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "武圣传",
+        "channel": "ag_game",
+        "code": "132",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/132.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "极速幸运轮",
+        "channel": "ag_game",
+        "code": "134",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/134.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "太空漫游",
+        "channel": "ag_game",
+        "code": "135",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/135.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "复古花园",
+        "channel": "ag_game",
+        "code": "136",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/136.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "关东煮",
+        "channel": "ag_game",
+        "code": "137",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/137.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "森林舞会单人版",
+        "channel": "ag_game",
+        "code": "1379",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1379.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "牧场咖啡",
+        "channel": "ag_game",
+        "code": "138",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/138.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "奔驰宝马单人版",
+        "channel": "ag_game",
+        "code": "1380",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1380.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "急速赛马",
+        "channel": "ag_game",
+        "code": "1381",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1381.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "猜猜乐",
+        "channel": "ag_game",
+        "code": "1382",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1382.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水果拉霸",
+        "channel": "ag_game",
+        "code": "1383",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1383.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "德州牛仔",
+        "channel": "ag_game",
+        "code": "1384",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1384.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "飞禽走兽",
+        "channel": "ag_game",
+        "code": "1385",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1385.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水果派对",
+        "channel": "ag_game",
+        "code": "1386",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1386.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "森林舞会多人版",
+        "channel": "ag_game",
+        "code": "1387",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1387.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水果拉霸多人版",
+        "channel": "ag_game",
+        "code": "1388",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1388.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "百人牛牛",
+        "channel": "ag_game",
+        "code": "1389",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1389.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "甜一甜屋",
+        "channel": "ag_game",
+        "code": "139",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/139.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "多宝水果拉霸",
+        "channel": "ag_game",
+        "code": "1394",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1394.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "街头烈战",
+        "channel": "ag_game",
+        "code": "1398",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1398.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "日本武士",
+        "channel": "ag_game",
+        "code": "140",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/140.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "象棋老虎机",
+        "channel": "ag_game",
+        "code": "141",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/141.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "麻将老虎机",
+        "channel": "ag_game",
+        "code": "142",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/142.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "西洋棋老虎机",
+        "channel": "ag_game",
+        "code": "143",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/143.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "夏日营地",
+        "channel": "ag_game",
+        "code": "145",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/145.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海底漫游",
+        "channel": "ag_game",
+        "code": "146",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/146.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "鬼马小丑",
+        "channel": "ag_game",
+        "code": "147",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/147.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "机动乐园",
+        "channel": "ag_game",
+        "code": "148",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/148.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "惊吓鬼屋",
+        "channel": "ag_game",
+        "code": "149",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/149.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "疯狂马戏团",
+        "channel": "ag_game",
+        "code": "150",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/150.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "彩金水果拉霸",
+        "channel": "ag_game",
+        "code": "1500",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1500.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金拉霸",
+        "channel": "ag_game",
+        "code": "1502",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1502.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "飞禽走兽多人版",
+        "channel": "ag_game",
+        "code": "1508",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1508.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海洋剧场",
+        "channel": "ag_game",
+        "code": "151",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/151.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水上乐园",
+        "channel": "ag_game",
+        "code": "152",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/152.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "空中战争",
+        "channel": "ag_game",
+        "code": "153",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/153.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "摇滚狂迷",
+        "channel": "ag_game",
+        "code": "154",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/154.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "猛龙传奇",
+        "channel": "ag_game",
+        "code": "1549",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1549.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "越野机车",
+        "channel": "ag_game",
+        "code": "155",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/155.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "埃及奥秘",
+        "channel": "ag_game",
+        "code": "156",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/156.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "牛牛对战",
+        "channel": "ag_game",
+        "code": "1561",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1561.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金龙珠",
+        "channel": "ag_game",
+        "code": "1562",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1562.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "奔驰宝马多人版",
+        "channel": "ag_game",
+        "code": "1567",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1567.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "欢乐时光",
+        "channel": "ag_game",
+        "code": "157",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/157.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "侏罗纪",
+        "channel": "ag_game",
+        "code": "158",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/158.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "骰宝",
+        "channel": "ag_game",
+        "code": "1582",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1582.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "动物狂欢多人版",
+        "channel": "ag_game",
+        "code": "1589",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1589.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "土地神",
+        "channel": "ag_game",
+        "code": "159",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/159.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "布袋和尚",
+        "channel": "ag_game",
+        "code": "160",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/160.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "XIN哥来了",
+        "channel": "ag_game",
+        "code": "1600",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1600.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "正财神",
+        "channel": "ag_game",
+        "code": "161",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/161.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "武财神",
+        "channel": "ag_game",
+        "code": "162",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/162.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "神奇寶石",
+        "channel": "ag_game",
+        "code": "1621",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1621.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "西游争霸",
+        "channel": "ag_game",
+        "code": "1623",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1623.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "翻倍炸金花",
+        "channel": "ag_game",
+        "code": "1625",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1625.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "阿里巴巴",
+        "channel": "ag_game",
+        "code": "1627",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1627.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "偏财神",
+        "channel": "ag_game",
+        "code": "163",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/163.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "性感女仆",
+        "channel": "ag_game",
+        "code": "164",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/164.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "灵猴献瑞",
+        "channel": "ag_game",
+        "code": "166",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/166.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "刺激战场多人版",
+        "channel": "ag_game",
+        "code": "1661",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1661.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "斗三公",
+        "channel": "ag_game",
+        "code": "1665",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1665.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "王者传说",
+        "channel": "ag_game",
+        "code": "1669",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1669.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "百搭二王",
+        "channel": "ag_game",
+        "code": "167",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/167.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "冠军足球",
+        "channel": "ag_game",
+        "code": "1675",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1675.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "红利百搭",
+        "channel": "ag_game",
+        "code": "168",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/168.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "红黑梅方",
+        "channel": "ag_game",
+        "code": "1680",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1680.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "天空守护者",
+        "channel": "ag_game",
+        "code": "169",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/169.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "齐天大圣",
+        "channel": "ag_game",
+        "code": "170",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/170.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "糖果碰碰乐",
+        "channel": "ag_game",
+        "code": "171",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/171.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "冰河世界",
+        "channel": "ag_game",
+        "code": "172",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/172.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "水果拉霸2",
+        "channel": "ag_game",
+        "code": "173",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/173.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "穆夏女神",
+        "channel": "ag_game",
+        "code": "1736",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1736.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "龍虎",
+        "channel": "ag_game",
+        "code": "1738",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1738.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "欧洲列强争霸",
+        "channel": "ag_game",
+        "code": "174",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/174.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "彩金宝藏世界",
+        "channel": "ag_game",
+        "code": "1744",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1744.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "捕鱼王者",
+        "channel": "ag_game",
+        "code": "175",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/175.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "上海百乐门",
+        "channel": "ag_game",
+        "code": "176",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/176.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "競技狂熱",
+        "channel": "ag_game",
+        "code": "177",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/177.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "亞瑟王",
+        "channel": "ag_game",
+        "code": "1772",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1772.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "愛麗絲大冒險",
+        "channel": "ag_game",
+        "code": "1773",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1773.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "戰火風雲",
+        "channel": "ag_game",
+        "code": "1774",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1774.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "鑽石女王",
+        "channel": "ag_game",
+        "code": "1775",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1775.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "嫦娥奔月",
+        "channel": "ag_game",
+        "code": "1776",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1776.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "百搭777",
+        "channel": "ag_game",
+        "code": "1778",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1778.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "龙珠",
+        "channel": "ag_game",
+        "code": "178",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/178.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "疯狂德州",
+        "channel": "ag_game",
+        "code": "1782",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1782.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "幸运8",
+        "channel": "ag_game",
+        "code": "179",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/179.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "闪亮女郎",
+        "channel": "ag_game",
+        "code": "180",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/180.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "永恒之吻",
+        "channel": "ag_game",
+        "code": "1804",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1804.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "恐怖嘉年华",
+        "channel": "ag_game",
+        "code": "1805",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1805.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "僵尸来袭",
+        "channel": "ag_game",
+        "code": "1806",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1806.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "狂野女巫",
+        "channel": "ag_game",
+        "code": "1807",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1807.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "金鱼",
+        "channel": "ag_game",
+        "code": "181",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/181.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "跳跳樂",
+        "channel": "ag_game",
+        "code": "1816",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1816.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "中国新年",
+        "channel": "ag_game",
+        "code": "182",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/182.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海盗王",
+        "channel": "ag_game",
+        "code": "183",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/183.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "多宝鱼虾蟹",
+        "channel": "ag_game",
+        "code": "1832",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1832.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "海陆争霸",
+        "channel": "ag_game",
+        "code": "1836",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1836.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "鲜果狂热",
+        "channel": "ag_game",
+        "code": "184",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/184.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "百人推筒子",
+        "channel": "ag_game",
+        "code": "1842",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1842.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "白雪公主",
+        "channel": "ag_game",
+        "code": "1844",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1844.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "葫芦兄弟",
+        "channel": "ag_game",
+        "code": "1845",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1845.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "内衣橄榄球",
+        "channel": "ag_game",
+        "code": "1846",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1846.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "贪玩蓝月",
+        "channel": "ag_game",
+        "code": "1847",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1847.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "小熊猫",
+        "channel": "ag_game",
+        "code": "185",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/185.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "招财锦鲤",
+        "channel": "ag_game",
+        "code": "1855",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1855.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "十二生肖",
+        "channel": "ag_game",
+        "code": "1856",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1856.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "功夫万条筒",
+        "channel": "ag_game",
+        "code": "1860",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1860.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "双喜炸金花",
+        "channel": "ag_game",
+        "code": "1867",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1867.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "圣女贞德",
+        "channel": "ag_game",
+        "code": "1872",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1872.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "五狮进宝",
+        "channel": "ag_game",
+        "code": "1873",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1873.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "发财熊猫",
+        "channel": "ag_game",
+        "code": "1874",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1874.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "凤凰传奇",
+        "channel": "ag_game",
+        "code": "1879",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1879.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "全民21点",
+        "channel": "ag_game",
+        "code": "1898",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1898.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "杰克高手",
+        "channel": "ag_game",
+        "code": "193",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/193.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "福星推筒子",
+        "channel": "ag_game",
+        "code": "1961",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1961.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "封神演义",
+        "channel": "ag_game",
+        "code": "1962",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1962.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "和风剧院",
+        "channel": "ag_game",
+        "code": "1963",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1963.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "点石成金",
+        "channel": "ag_game",
+        "code": "1964",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/1964.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "YP刮刮卡",
+        "channel": "ag_game",
+        "code": "2396",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2396.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "财富转盘",
+        "channel": "ag_game",
+        "code": "2398",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2398.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "财宝塔罗",
+        "channel": "ag_game",
+        "code": "2400",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2400.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "埃及宝藏",
+        "channel": "ag_game",
+        "code": "2401",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2401.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "魔龙",
+        "channel": "ag_game",
+        "code": "2423",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2423.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "射龙门",
+        "channel": "ag_game",
+        "code": "2436",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2436.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "横行霸道",
+        "channel": "ag_game",
+        "code": "2678",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2678.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "古惑仔",
+        "channel": "ag_game",
+        "code": "2679",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2679.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "神奇宠物",
+        "channel": "ag_game",
+        "code": "2680",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2680.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "魅惑魔女",
+        "channel": "ag_game",
+        "code": "2815",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2815.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "皇家戏台",
+        "channel": "ag_game",
+        "code": "2836",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2836.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "蒸汽战争",
+        "channel": "ag_game",
+        "code": "2837",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2837.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "11选5",
+        "channel": "ag_game",
+        "code": "2841",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2841.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "极品飙车",
+        "channel": "ag_game",
+        "code": "2861",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2861.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "寿司大食客",
+        "channel": "ag_game",
+        "code": "2862",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2862.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "幸运7",
+        "channel": "ag_game",
+        "code": "2934",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2934.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "赌城之夜",
+        "channel": "ag_game",
+        "code": "2940",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2940.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "宠物乐园",
+        "channel": "ag_game",
+        "code": "2986",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2986.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "疯狂弹球",
+        "channel": "ag_game",
+        "code": "2998",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/2998.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "彩金飞禽走兽",
+        "channel": "ag_game",
+        "code": "3010",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3010.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "胡桃夹子",
+        "channel": "ag_game",
+        "code": "3025",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3025.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "神庙丽影",
+        "channel": "ag_game",
+        "code": "3026",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3026.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "皇牌ACE",
+        "channel": "ag_game",
+        "code": "3028",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3028.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "摔跤英雄",
+        "channel": "ag_game",
+        "code": "3053",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3053.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "巨龙宝藏",
+        "channel": "ag_game",
+        "code": "3054",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3054.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "王牌狂徒",
+        "channel": "ag_game",
+        "code": "3055",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3055.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "彩金森林舞会",
+        "channel": "ag_game",
+        "code": "3056",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3056.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "肉脯团",
+        "channel": "ag_game",
+        "code": "3078",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3078.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "包租婆",
+        "channel": "ag_game",
+        "code": "3116",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3116.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "功夫传奇",
+        "channel": "ag_game",
+        "code": "3117",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3117.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "宾果拉霸",
+        "channel": "ag_game",
+        "code": "3143",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3143.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "飞禽走兽拉霸",
+        "channel": "ag_game",
+        "code": "3169",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/3169.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "龙舟竞渡",
+        "channel": "ag_game",
+        "code": "528",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/528.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "中秋佳节",
+        "channel": "ag_game",
+        "code": "529",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/529.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "韩风劲舞",
+        "channel": "ag_game",
+        "code": "530",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/530.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "美女大格斗",
+        "channel": "ag_game",
+        "code": "531",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/531.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "黄金对垒",
+        "channel": "ag_game",
+        "code": "533",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/533.png"
+        },
+        "mark": 0
+    },
+    {
+        "name": "大豪客",
+        "channel": "ag_game",
+        "code": "535",
+        "gametype": "h5",
+        "categoryid": "game_lobby_ag_game",
+        "images": {
+            "general": "http://squirrel-dev.paradise-soft.com.tw/thirdparty/img/game/ag_game/535.png"
+        },
+        "mark": 0
+    }
+]

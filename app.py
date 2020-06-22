@@ -159,20 +159,20 @@ def init():
     click.echo('--------------------------')
 
 
-@cli.command('mat', short_help='How to use MAT')
-def mat():
-    click.echo("----------Hello! This is mat----------")
-    click.echo("mat 的用途是顯示特定 api 應正常回應之結果，將回應的結果 ( json檔案 ) 放入 ./Data，並在 config 檔設定 server 與 router 即可使用!")
-    click.echo("mat 指令:")
-    click.echo("   1.mat init : 建立 config.yaml 與 data floder ，此時檔案內的內容為範例，仍能使用，請自行更改為欲測試之內容與檔案")
-    click.echo("   2.mat server : 啟動 mat")
-    click.echo("   3.mat conf : 關於 config 檔的查看與更改設定")
-    click.echo('--------------------------')
+# @cli.command('mat', short_help='How to use MAT')
+# def mat():
+#     click.echo("----------Hello! This is mat----------")
+#     click.echo("mat 的用途是顯示特定 api 應正常回應之結果，將回應的結果 ( json檔案 ) 放入 ./Data，並在 config 檔設定 server 與 router 即可使用!")
+#     click.echo("mat 指令:")
+#     click.echo("   1.mat init : 建立 config.yaml 與 data floder ，此時檔案內的內容為範例，仍能使用，請自行更改為欲測試之內容與檔案")
+#     click.echo("   2.mat server : 啟動 mat")
+#     click.echo("   3.mat conf : 關於 config 檔的查看與更改設定")
+#     click.echo('--------------------------')
 
 
 
 
-@cli.command('server', short_help='start MAT, --help to read more')
+@cli.command('server', short_help='start MAT')
 def server():
 
     config = confuse.Configuration('mat', __name__)

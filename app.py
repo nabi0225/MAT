@@ -29,45 +29,6 @@ def cli(mat):
     """
     pass
 
-'''
-@cli.command()
-@click.option('--change', help='Change your port')
-def port(change):
-    config = confuse.Configuration('mat', __name__)
-    config.set_file('config.yaml')
-    temp = config['server']['port'].get()
-    now_port = str(temp)
-
-    with open("./config.yaml") as f:
-        doc = yaml.load(f)
-
-    if change:
-        doc['server']['port'] = change
-
-        with open("./config.yaml", 'w') as fw:
-            yaml.dump(doc, fw)
-
-        with open('./config.yaml', 'r') as fr:
-            doc = yaml.load(fr)
-            new_port = doc['server']['port']
-
-        click.echo('Ur port is changed :' + new_port)
-    else:
-        click.echo('Ur port is : ' + now_port)
-
-@cli.command('host', short_help='Check your host')
-@click.option('--host', help='Change your host')
-def host(host):
-    config = confuse.Configuration('mat', __name__)
-    config.set_file('config.yaml')
-    temp = config['server']['host'].get()
-    con_host = str(temp)
-    if host:
-        click.echo('Ur host is changed to : ' + host)
-    else:
-        click.echo('Ur host is : ' + con_host)
-'''
-
 
 # @cli, not @click!
 @cli.command('init', short_help='Create example_config file and show explain config file')
@@ -209,47 +170,9 @@ def mat():
     click.echo('--------------------------')
 
 
-'''
-@cli.command('explain', short_help='Explain config file')  # 好像可以不用，哈哈
-def explain():
-    click.echo("----------config file explain----------")
-    explanation = {
-        'server': {
-            'host': 'server host',
-            'port': 'server port',
-                    'origin_proxy_url': 'origin_proxy_url',
-        },
-        'routes': [
-            {
-                'listen_path': 'server router',
-                'file_path': 'call correspond json response according to the router',
-                'status_code': 'http status code',
-            },
-            {
-                'listen_path': 'server router',
-                'file_path': 'call correspond json response according to the router',
-                'query_params': {
-                    'params name ': 'params key'
-                },
-                'status_code': 'http status code'
-            }
-        ]
-    }
-    explain_json = json.dumps(explanation, indent=2)
-    click.echo(explain_json)
 
-    filepath = r'.\explain.yaml'
-    if os.path.isfile(filepath):
-        pass
-    else:
-        f = open(r'.\explain.yaml', 'w')
-        yaml.dump(explanation, f)
-'''
 
 @cli.command('server', short_help='start MAT, --help to read more')
-# @click.option('--check', help='Check your port or host')
-# @click.option('--port', type=int, help='Change your port or host')
-# @click.option('--host', help='Change your host')
 def server():
 
     config = confuse.Configuration('mat', __name__)

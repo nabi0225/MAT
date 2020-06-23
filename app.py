@@ -35,36 +35,33 @@ def cli(mat):
 @cli.command('init', short_help='Create example_config file and show explain config file')
 def init():
     filepath = 'config.yaml'
-    if os.path.isfile(filepath):
+    if os.path.exists(filepath):
+        click.echo('--------------------------')
         click.echo("***config file existence***")
         click.echo('--------------------------')
         click.echo('config.yaml :')
         pass
     else:
         click.echo('--------------------------')
-        click.echo("config file not existence")
         click.echo('creat "config.yaml" and "data" for example')
         click.echo('--------------------------')
         click.echo('config.yaml :')
 
-       filename = os.path.realpath(__file__)
+        filename = os.path.realpath(__file__)
         head_tail = os.path.split(filename)
-
-        # # click.echo(str(head_tail[0]))
 
         with open(head_tail[0]+'/config.yaml', 'r') as f_config:
             doc = yaml.load(f_config)
 
         click.echo(ruamel.yaml.round_trip_dump(doc, indent=2))
 
-        # config.set_file('./config.yaml')
-
         with open('./config.yaml', 'w') as f:
             f.write(ruamel.yaml.round_trip_dump(
                 doc, default_flow_style=False))
 
+        shutil.copytree(head_tail[0]+'/data', './data')
 
-    '''
+
     explanation = {
         'server': {
             'host': 'Your server host',
@@ -90,63 +87,11 @@ def init():
 
     explain_json = json.dumps(explanation, indent=2)
     click.echo(explain_json)
-    '''
-    path = "./data"
-    if os.path.exists(path):
-        click.echo('--------------------------')
-        click.echo("***Data folder existence***")
-        pass
-    else:
-        os.makedirs(path)
 
-    data1 = [
-        {
-            "id": "home_hot",
-            "title": "热门游戏",
-            "connectionlinkcode": "hot",
-            "images": {
-                "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/category/hot.png"
-            },
-            "subcategories": [
-
-            ]
-        },
-        {
-            "id": "home_recent",
-            "title": "最近游玩",
-            "connectionlinkcode": "recent",
-            "images": {
-                "general": "http://squirrel-dev.paradise-soft.com.tw/p/shark/ttmj/showroom_gamelobby/category/rcnt.png"
-            },
-            "subcategories": [
-            ]
-        }
-    ]
-
-    data2 = [
-        {
-            "name": "lottery",
-            "category": [
-                "fctc",
-                "hk",
-                "ssc",
-                "wf",
-                "js",
-                "sf"
-            ]
-        }
-    ]
-
-    with open(r'.\data\v2_showrooms_home_categories.json', 'w', encoding='utf-8') as f:
-        json.dump(data1, f, ensure_ascii=False, indent=4)
-
-    with open(r'.\data\v1_products_category.json', 'w', encoding='utf-8') as f:
-        json.dump(data2, f, ensure_ascii=False, indent=4)
 
     click.echo('--------------------------')
     click.echo('use "mat server" for next step')
     click.echo('use "mat conf" for more about config')
-
     click.echo('--------------------------')
 
 

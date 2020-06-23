@@ -61,7 +61,6 @@ def init():
 
         shutil.copytree(head_tail[0]+'/data', './data')
 
-
     explanation = {
         'server': {
             'host': 'Your server host',
@@ -88,7 +87,6 @@ def init():
     explain_json = json.dumps(explanation, indent=2)
     click.echo(explain_json)
 
-
     click.echo('--------------------------')
     click.echo('use "mat server" for next step')
     click.echo('use "mat conf" for more about config')
@@ -114,21 +112,16 @@ def server():
 
 @cli.command('conf', short_help='about config file')
 @click.option('--routes', nargs=3, help='input [listen path] [file path] [status code] to add a new router')
-@click.option('--check', help='Check your port or host')
-@click.option('--port', type=int, help='Change your port or host')
-@click.option('--host', help='Change your host')
-def conf(routes, check, port, host):
+@click.option('--server', nargs=2, help='input [port] [host] ')
+@click.option('--check', help='Check your port and host')  # check不須輸入值
+# @click.option('--port', type=int, help='Change your port or host')
+# @click.option('--host', help='Change your host')
+def conf(routes, check, server):
     '''
         It's about config file!
     '''
-
-    config = confuse.Configuration('mat', __name__)
-    config.set_file('./config.yaml')
-    temp_port = config['server']['port'].get(int)
-    temp_host = config['server']['host'].get()
-
-    with open("./config.yaml") as f:
-        doc = yaml.load(f)
+    with open("./config.yaml", 'r') as fr:
+        doc = yaml.load(fr)
 
     if routes:
 
@@ -140,50 +133,32 @@ def conf(routes, check, port, host):
             }
         ]
 
-        with open("./config.yaml", 'a')as f:
-            f.write(ruamel.yaml.round_trip_dump(
+        with open("./config.yaml", 'a')as fa:
+            fa.write(ruamel.yaml.round_trip_dump(
                 data_dict, default_flow_style=False))
 
         click.echo('add' + str(data_dict))
 
-    elif check == 'port':
-        # conf_port = str(temp_port)
+    elif check:
+        temp_port = doc['server']['port']
+        temp_host = doc['server']['host']
         click.echo('Ur port is : ' + str(temp_port))
-
-    elif check == 'host':
-        # conf_host = str(temp_host)
         click.echo('Ur host is : ' + str(temp_host))
 
-    elif port:
-        # with open("./config.yaml") as f:
-        #     doc = yaml.load(f)
-        doc['server']['port'] = port
+    elif server:
+        doc['server']['port'] = int(server[0])
+        doc['server']['host'] = server[1]
 
         with open("./config.yaml", 'w') as fw:
             yaml.dump(doc, fw)
 
-        # with open('./config.yaml', 'r') as fr:
-        #     doc = yaml.load(fr)
-            new_port = doc['server']['port']
+        new_port = doc['server']['port']
+        new_host = doc['server']['host']
 
-        click.echo('Ur port is changed !' + str(new_port))
+        click.echo('---Change--- \nport : ' +
+                   str(new_port) + '\nhost : ' + str(new_host))
 
-    elif host:
-        # with open("./config.yaml") as f:
-        #     doc = yaml.load(f)
-        doc['server']['host'] = host
-
-        with open("./config.yaml", 'w') as fw:
-            yaml.dump(doc, fw)
-
-        with open('./config.yaml', 'r') as fr:
-            doc = yaml.load(fr)
-            new_host = doc['server']['host']
-
-        click.echo('Ur host is changed !' + new_host)
     else:
-        # with open('./config.yaml', 'r') as fr:
-        #     doc = yaml.load(fr)
         click.echo(ruamel.yaml.round_trip_dump(doc, indent=2))
         click.echo('--------------------------')
         click.echo('"--help" for more detail')

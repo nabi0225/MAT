@@ -34,7 +34,7 @@ def cli(mat):
 # @cli, not @click!
 @cli.command('init', short_help='Create example_config file and show explain config file')
 def init():
-    filepath = r'.\config.yaml'
+    filepath = 'config.yaml'
     if os.path.isfile(filepath):
         click.echo("***config file existence***")
         click.echo('--------------------------')
@@ -47,19 +47,21 @@ def init():
         click.echo('--------------------------')
         click.echo('config.yaml :')
 
-        # filename = os.path.realpath(__file__)
-        # head_tail = os.path.split(filename)
+       filename = os.path.realpath(__file__)
+        head_tail = os.path.split(filename)
 
-        # click.echo(str(head_tail[0]))
+        # # click.echo(str(head_tail[0]))
 
-        # with open(head_tail[0]+'/config.yaml', 'r') as f_config:
-        #     doc = yaml.load(f_config)
+        with open(head_tail[0]+'/config.yaml', 'r') as f_config:
+            doc = yaml.load(f_config)
 
-        # click.echo(ruamel.yaml.round_trip_dump(doc, indent=2))
+        click.echo(ruamel.yaml.round_trip_dump(doc, indent=2))
+
+        # config.set_file('./config.yaml')
 
         with open('./config.yaml', 'w') as f:
             f.write(ruamel.yaml.round_trip_dump(
-                config, default_flow_style=False))
+                doc, default_flow_style=False))
 
 
     '''

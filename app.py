@@ -16,6 +16,7 @@ app = Flask(__name__)
 CORS(app)
 
 config = confuse.Configuration('mat', __name__)
+config.set_file('./config.yaml')
 # config.set_file('config.yaml')
 
 
@@ -45,20 +46,20 @@ def init():
         click.echo('creat "config.yaml" and "data" for example')
         click.echo('--------------------------')
         click.echo('config.yaml :')
-        
-        filename = os.path.realpath(__file__)
-        head_tail = os.path.split(filename)
+
+        # filename = os.path.realpath(__file__)
+        # head_tail = os.path.split(filename)
 
         # click.echo(str(head_tail[0]))
 
-        with open(head_tail[0]+'/config.yaml', 'r') as f_config:
-            doc = yaml.load(f_config)
+        # with open(head_tail[0]+'/config.yaml', 'r') as f_config:
+        #     doc = yaml.load(f_config)
 
-        click.echo(ruamel.yaml.round_trip_dump(doc, indent=2))
+        # click.echo(ruamel.yaml.round_trip_dump(doc, indent=2))
 
         with open('./config.yaml', 'w') as f:
             f.write(ruamel.yaml.round_trip_dump(
-                doc, default_flow_style=False))
+                config, default_flow_style=False))
 
 
     '''

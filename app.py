@@ -45,34 +45,23 @@ def init():
         click.echo('creat "config.yaml" and "data" for example')
         click.echo('--------------------------')
         click.echo('config.yaml :')
-        example = {
-            'server': {
-                'host': '0.0.0.0',
-                'port': 8000,
-                'origin_proxy_url': 'http://xunya-apis.dev-ttmj.svc.cluster.local:8000',
-            },
-            'routes': [
-                {
-                    'listen_path': 'v2/showrooms/home/categories',
-                    'file_path': 'data/v2_showrooms_home_categories.json',
-                    'status_code': '200',
-                },
-                {
-                    'listen_path': 'v1/products/category',
-                    'file_path': 'data/v1_products_category.json',
-                    'query_params': {
-                        'categorycode': 'lottery'
-                    },
-                    'status_code': '200'
-                }
-            ]
-        }
-        f = open(r'.\config.yaml', 'w')
+        
+        filename = os.path.realpath(__file__)
+        head_tail = os.path.split(filename)
 
-        # example = UnsortableOrderedDict(example)
+        # click.echo(str(head_tail[0]))
 
-        ruamel.yaml.round_trip_dump(example, f,default_flow_style=False)
+        with open(head_tail[0]+'/config.yaml', 'r') as f_config:
+            doc = yaml.load(f_config)
 
+        click.echo(ruamel.yaml.round_trip_dump(doc, indent=2))
+
+        with open('./config.yaml', 'w') as f:
+            f.write(ruamel.yaml.round_trip_dump(
+                doc, default_flow_style=False))
+
+
+    '''
     explanation = {
         'server': {
             'host': 'Your server host',
@@ -95,11 +84,11 @@ def init():
             }
         ]
     }
+
     explain_json = json.dumps(explanation, indent=2)
     click.echo(explain_json)
-
+    '''
     path = "./data"
-
     if os.path.exists(path):
         click.echo('--------------------------')
         click.echo("***Data folder existence***")
@@ -154,22 +143,8 @@ def init():
     click.echo('--------------------------')
     click.echo('use "mat server" for next step')
     click.echo('use "mat conf" for more about config')
-    click.echo('use "mat mat" for more detail')
 
     click.echo('--------------------------')
-
-
-# @cli.command('mat', short_help='How to use MAT')
-# def mat():
-#     click.echo("----------Hello! This is mat----------")
-#     click.echo("mat 的用途是顯示特定 api 應正常回應之結果，將回應的結果 ( json檔案 ) 放入 ./Data，並在 config 檔設定 server 與 router 即可使用!")
-#     click.echo("mat 指令:")
-#     click.echo("   1.mat init : 建立 config.yaml 與 data floder ，此時檔案內的內容為範例，仍能使用，請自行更改為欲測試之內容與檔案")
-#     click.echo("   2.mat server : 啟動 mat")
-#     click.echo("   3.mat conf : 關於 config 檔的查看與更改設定")
-#     click.echo('--------------------------')
-
-
 
 
 @cli.command('server', short_help='start MAT')
@@ -188,12 +163,13 @@ def server():
         host=temp_host,
     )
 
-@cli.command('conf',short_help='about config file')
-@click.option('--routes', nargs=3,help='input [listen path] [file path] [status code] to add a new router')
+
+@cli.command('conf', short_help='about config file')
+@click.option('--routes', nargs=3, help='input [listen path] [file path] [status code] to add a new router')
 @click.option('--check', help='Check your port or host')
 @click.option('--port', type=int, help='Change your port or host')
 @click.option('--host', help='Change your host')
-def conf(routes,check, port, host):
+def conf(routes, check, port, host):
     '''
         It's about config file!
     '''
@@ -203,7 +179,8 @@ def conf(routes,check, port, host):
     temp_port = config['server']['port'].get(int)
     temp_host = config['server']['host'].get()
 
-
+    with open("./config.yaml") as f:
+        doc = yaml.load(f)
 
     if routes:
 
@@ -215,36 +192,37 @@ def conf(routes,check, port, host):
             }
         ]
 
-        with open("./config.yaml",'a')as f: 
-            f.write(ruamel.yaml.round_trip_dump(data_dict , default_flow_style=False)) 
+        with open("./config.yaml", 'a')as f:
+            f.write(ruamel.yaml.round_trip_dump(
+                data_dict, default_flow_style=False))
 
-        click.echo('add'+ str(data_dict))
+        click.echo('add' + str(data_dict))
 
     elif check == 'port':
-        conf_port = str(temp_port)
-        click.echo('Ur port is : ' + conf_port)
+        # conf_port = str(temp_port)
+        click.echo('Ur port is : ' + str(temp_port))
 
     elif check == 'host':
-        conf_host = str(temp_host)
-        click.echo('Ur host is : ' + conf_host)
+        # conf_host = str(temp_host)
+        click.echo('Ur host is : ' + str(temp_host))
 
     elif port:
-        with open("./config.yaml") as f:
-            doc = yaml.load(f)
+        # with open("./config.yaml") as f:
+        #     doc = yaml.load(f)
         doc['server']['port'] = port
 
         with open("./config.yaml", 'w') as fw:
             yaml.dump(doc, fw)
 
-        with open('./config.yaml', 'r') as fr:
-            doc = yaml.load(fr)
+        # with open('./config.yaml', 'r') as fr:
+        #     doc = yaml.load(fr)
             new_port = doc['server']['port']
 
         click.echo('Ur port is changed !' + str(new_port))
 
     elif host:
-        with open("./config.yaml") as f:
-            doc = yaml.load(f)
+        # with open("./config.yaml") as f:
+        #     doc = yaml.load(f)
         doc['server']['host'] = host
 
         with open("./config.yaml", 'w') as fw:
@@ -256,19 +234,19 @@ def conf(routes,check, port, host):
 
         click.echo('Ur host is changed !' + new_host)
     else:
-        with open('./config.yaml', 'r') as fr:
-            doc = yaml.load(fr)
+        # with open('./config.yaml', 'r') as fr:
+        #     doc = yaml.load(fr)
         click.echo(ruamel.yaml.round_trip_dump(doc, indent=2))
         click.echo('--------------------------')
         click.echo('"--help" for more detail')
         click.echo('--------------------------')
 
 
-
 @app.route('/')
 def hello_world():
     config.set_file('./config.yaml')
-    route_data = '\n'.join(f"<li>{route['listen_path']}</li>" for route in config['routes'].get(list))
+    route_data = '\n'.join(
+        f"<li>{route['listen_path']}</li>" for route in config['routes'].get(list))
     origin_proxy_url = config['server']['origin_proxy_url'].get()
 
     return f"""

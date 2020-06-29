@@ -7,10 +7,9 @@ from flask import Flask, request, jsonify, Response
 from flask_cors import CORS
 import click
 import yaml
-import config_with_yaml as configyaml
 import os
 
-import ruamel.yaml
+# import ruamel.yaml
 
 app = Flask(__name__)
 CORS(app)

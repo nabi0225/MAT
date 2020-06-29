@@ -12,7 +12,6 @@ setuptools.setup(
         'confuse',
         'requests',
         'flask',
-        'os',
         'json',
     ],
      entry_points='''

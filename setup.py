@@ -9,6 +9,12 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
         'Click',
+        'confuse',
+        'requests',
+        'flask',
+        'yaml',
+        'os',
+        'json',
     ],
      entry_points='''
         [console_scripts]

@@ -12,7 +12,6 @@ setuptools.setup(
         'confuse',
         'requests',
         'flask',
-        'yaml',
         'os',
         'json',
     ],

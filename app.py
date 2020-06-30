@@ -9,12 +9,11 @@ import click
 import yaml
 import os
 
-# import ruamel.yaml
-
 app = Flask(__name__)
 CORS(app)
 
 config = confuse.Configuration('mat', __name__)
+
 
 @click.group()
 @click.option('-mat/-', default=False)
@@ -29,70 +28,35 @@ def cli(mat):
     pass
 
 
-@cli.command('init', short_help='建立 config file 和 data file')
+@cli.command('init', short_help='初始化，建立 config file 和 data file')
 def init():
     filepath = 'config.yaml'
     cur_dir = os.path.dirname(os.path.realpath(__file__))
     if os.path.exists(filepath):
 
-        click.echo(
-            """
+        click.echo("""
     ---config file 已存在
         """
-        )
+                   )
         pass
 
     else:
-        click.echo(
-            f"""
+        click.echo(f"""
     ---建立 "config.yaml" 和 "data" 為範例
     ---mat : {cur_dir}
-    """
-        )
+        """
+                   )
 
         shutil.copytree(cur_dir + '/data', './data')
         shutil.copyfile(cur_dir + '/config.yaml', './config.yaml')
 
-    explanation = {
-        'server': {
-            'host': 'server host',
-            'port': 'server port',
-            'origin_proxy_url': '代理的路由',
-        },
-        'routes': [
-            {
-                'listen_path': '監聽的路由',
-                'file_path': '路由對應的 json 檔案',
-                'status_code': 'http status code',
-            },
-            {
-                'listen_path': '監聽的路由',
-                'file_path': '路由對應的 json 檔案',
-                'query_params': {
-                    ' 路由 params 名稱': 'params key'
-                },
-                'status_code': 'http status code'
-            }
-        ]
-    }
-
-    explain_json = json.dumps(explanation, ensure_ascii=False, indent=2)
-    click.echo(
-        f"""
-    ---config file 內容 :
-    {explain_json}
-    -----------------
-        """
-    )
-
-    click.echo(
-        """
+    click.echo("""
     ---使用 mat server 來啟動 mat
-        """
-    )
+    """
+               )
 
 
-@cli.command('server', short_help='start MAT')
+@cli.command('server', short_help='啟動 mat')
 def server():
     config.set_file('./config.yaml')
     click.echo('server...')
@@ -101,77 +65,44 @@ def server():
         port=config['server']['port'].get(int),
     )
 
+@cli.command('conf', short_help='查看、更改設定檔')
+@click.option('--port', '--host', multiple=True, help='更改設定檔的 port 和 host')
+def conf(port):
 
-@cli.command('check', short_help='check port and host')
-def check():
-
-    with open("./config.yaml", 'r') as fr:
+    with open("./config.yaml", 'r', encoding="utf-8") as fr:
         doc = yaml.load(fr)
 
     temp_port = doc['server']['port']
     temp_host = doc['server']['host']
 
-    click.echo(
-        f"""
+    click.echo(f"""
     ------server------
     port : {temp_port}
     host : {temp_host}
     ------------------
-        """
-    )
+    """)
 
-@cli.command('conf', short_help='about server')
-@click.option('--port', '--host', multiple=True, help='更改 server 的 port 和 host')
-def conf(port):
+    if port:
 
-    with open("./config.yaml", 'r') as fr:
-        doc = yaml.load(fr)
+        doc['server']['port'] = int(port[0])
+        doc['server']['host'] = port[1]
 
-    doc['server']['port'] = int(port[0])
-    doc['server']['host'] = port[1]
+        with open("./config.yaml", 'w', encoding="utf-8") as fw:
+            yaml.dump(doc, fw)
 
-    with open("./config.yaml", 'w') as fw:
-        yaml.dump(doc, fw)
+        new_port = doc['server']['port']
+        new_host = doc['server']['host']
 
-    new_port = doc['server']['port']
-    new_host = doc['server']['host']
-
-    click.echo(
-        f"""
+        click.echo(f"""
     ------Change------
     port : {new_port}
     host : {new_host}
     ------------------
         """
-    )
+                   )
 
-
-'''
-@cli.command('routes', short_help='about router')
-@click.option('--listen', '--file', '--status', help='input [listen path] [file path] [status code] to add a new router', multiple=True)
-def routes(listen):
-
-    data_dict = [
-        {
-            'listen_path': listen[0],
-            'file_path': listen[1],
-            'status_code': listen[2],
-        }
-    ]
-
-    with open("./config.yaml", 'a')as fa:
-        fa.write(ruamel.yaml.round_trip_dump(
-            data_dict, default_flow_style=False))
-
-    with open("./config.yaml", 'r') as f:
-        doc = yaml.load(f)
-
-    click.echo(
-        f"""
-        add {data_dict}
-        {ruamel.yaml.round_trip_dump(doc, indent=2)}
-        """)
-'''
+    else:
+        pass
 
 @app.route('/')
 def hello_world():

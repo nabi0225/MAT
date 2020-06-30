@@ -11,4 +11,4 @@ routes:
     file_path: data/v1_products_category.json   #路由對應的 json 檔案
     query_params:
       categorycode: lottery   #路由 params 名稱 : params key
-    status_code: 200    #http 狀態碼
+    status_code: 200    #http 的狀態碼

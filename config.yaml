@@ -1,90 +1,14 @@
 server:
-  host: 0.0.0.0
-  port: 8000
-  origin_proxy_url: http://xunya-apis.dev-ttmj.svc.cluster.local:8000
+  host: 0.0.0.0   #server host
+  port: 8000      #server port
+  origin_proxy_url: http://xunya-apis.dev-ttmj.svc.cluster.local:8000   #代理的路由
 routes:
-  - listen_path: v2/showrooms/home/categories
-    file_path: data/v2_showrooms_home_categories.json
-    status_code: 200
+  - listen_path: v2/showrooms/home/categories   #監聽的路由
+    file_path: data/v2_showrooms_home_categories.json   #路由對應的 json 檔案
+    status_code: 200    #http 狀態碼
 
-  - listen_path: v2/showrooms/gamelobby/categories
-    file_path: data/v2_showrooms_gamelobby_categories.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_ag_game/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_ag_game_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_bbin_game/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_bbin_game_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_bs_qipai/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_bs_qipai_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_cq_game/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_cq_game_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_dt_game/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_dt_game_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_fg_game/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_fg_game_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_fg_qipai/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_fg_qipai_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_fish/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_fish_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_ky_qipai/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_ky_qipai_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_lc_qipai/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_lc_qipai_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_mg_game/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_mg_game_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_mj/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_mj_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_pt_game/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_pt_game_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_sb_game/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_sb_game_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_sport/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_sport_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_sw_game/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_sw_game_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_vg_qipai/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_vg_qipai_items.json
-    status_code: 200
-
-  - listen_path: v2/showrooms/gamelobby/categories/game_lobby_video/items
-    file_path: data/v2_showrooms_gamelobby_categories_game_lobby_video_items.json
-    status_code: 200
-
-  - listen_path: v1/products/category
-    file_path: data/v1_products_category.json
+  - listen_path: v1/products/category     #監聽的路由
+    file_path: data/v1_products_category.json   #路由對應的 json 檔案
     query_params:
-      categorycode: lottery
-    status_code: 200
+      categorycode: lottery   #路由 params 名稱 : params key
+    status_code: 200    #http 狀態碼

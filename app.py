@@ -14,7 +14,6 @@ CORS(app)
 
 config = confuse.Configuration('mat', __name__)
 
-
 @click.group()
 @click.option('-mat/-', default=False)
 def cli(mat):
@@ -87,7 +86,9 @@ def conf(port, host):
     if port:
         doc['server']['port'] = int(port)
     if host:
-         doc['server']['host'] = host
+        doc['server']['host'] = host
+    if not (port or host):
+        return
 
     with open("./config.yaml", 'w', encoding="utf-8") as fw:
         yaml.dump(doc, fw)
@@ -95,14 +96,15 @@ def conf(port, host):
     new_port = doc['server']['port']
     new_host = doc['server']['host']
 
-    click.echo(f"""
+    if port or host:
+        click.echo(f"""
     ------Change------
     port : {new_port}
     host : {new_host}
     ------------------
-        """
-               )
-               
+                """
+        )
+
 
 @app.route('/')
 def hello_world():

@@ -66,11 +66,9 @@ def server():
     )
 
 @cli.command('conf', short_help='查看、更改設定檔')
-@click.option('--port', '--host', multiple=True, help='更改設定檔的 port 和 host')
-def conf(port):
-
-    with open("./config.yaml", 'r', encoding="utf-8") as fr:
-        doc = yaml.load(fr)
+@click.option('--port', help='更改設定檔的 port')
+@click.option('--host', help='更改設定檔的 host')
+def conf(port, host):
 
     temp_port = doc['server']['port']
     temp_host = doc['server']['host']
@@ -82,27 +80,33 @@ def conf(port):
     ------------------
     """)
 
-    if port:
+    if port and host:
+        doc['server']['port'] = int(port)
+        doc['server']['host'] = host
+        show()
 
-        doc['server']['port'] = int(port[0])
-        doc['server']['host'] = port[1]
+    elif port:
+        doc['server']['port'] = int(port)
+        show()
 
-        with open("./config.yaml", 'w', encoding="utf-8") as fw:
-            yaml.dump(doc, fw)
+    elif host:
+        doc['server']['host'] = host
+        show()
+    
+def show():
+    with open("./config.yaml", 'w', encoding="utf-8") as fw:
+        yaml.dump(doc, fw)
 
-        new_port = doc['server']['port']
-        new_host = doc['server']['host']
+    new_port = doc['server']['port']
+    new_host = doc['server']['host']
 
-        click.echo(f"""
+    click.echo(f"""
     ------Change------
     port : {new_port}
     host : {new_host}
     ------------------
         """
-                   )
-
-    else:
-        pass
+            )
 
 @app.route('/')
 def hello_world():

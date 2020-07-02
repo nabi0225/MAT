@@ -14,9 +14,6 @@ CORS(app)
 
 config = confuse.Configuration('mat', __name__)
 
-with open('./config.yaml', 'r',encoding='utf8') as fr:
-    doc = yaml.load(fr)
-
 
 @click.group()
 @click.option('-mat/-', default=False)
@@ -68,10 +65,14 @@ def server():
         port=config['server']['port'].get(int),
     )
 
+
 @cli.command('conf', short_help='查看、更改設定檔')
 @click.option('--port', help='更改設定檔的 port')
 @click.option('--host', help='更改設定檔的 host')
 def conf(port, host):
+
+    with open("./config.yaml", 'r', encoding="utf-8") as fr:
+        doc = yaml.load(fr)
 
     temp_port = doc['server']['port']
     temp_host = doc['server']['host']
@@ -83,20 +84,11 @@ def conf(port, host):
     ------------------
     """)
 
-    if port and host:
+    if port:
         doc['server']['port'] = int(port)
-        doc['server']['host'] = host
-        show()
+    if host:
+         doc['server']['host'] = host
 
-    elif port:
-        doc['server']['port'] = int(port)
-        show()
-
-    elif host:
-        doc['server']['host'] = host
-        show()
-    
-def show():
     with open("./config.yaml", 'w', encoding="utf-8") as fw:
         yaml.dump(doc, fw)
 
@@ -109,7 +101,8 @@ def show():
     host : {new_host}
     ------------------
         """
-            )
+               )
+               
 
 @app.route('/')
 def hello_world():

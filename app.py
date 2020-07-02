@@ -14,6 +14,9 @@ CORS(app)
 
 config = confuse.Configuration('mat', __name__)
 
+with open('./config.yaml', 'r',encoding='utf8') as fr:
+    doc = yaml.load(fr)
+
 
 @click.group()
 @click.option('-mat/-', default=False)

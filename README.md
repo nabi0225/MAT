@@ -1,21 +1,35 @@
 # MAT
-## 顯示 api 應正常回應之結果
+
+顯示 api 應正常回應之結果
+
+## 安裝
+
+>使用 [pip](https://pip.pypa.io/en/stable/) 從 git 安裝 mat.
+
+```bash
+pip install git+https://github.com/nabi0225/MAT.git
+```
+
+## 使用方法
 
 >初始化 mat，產生 config.yaml 與 Data 檔
 ```python
 mat init
 ```
->啟動mat
+>啟動 mat
 ```python
 mat server
 ```
->查看、更改 server port 和 host
+>查看 server port 和 host
 ```python
 mat conf
-    --port, --host text
+```
+>更改 server port 和 host
+```python
+mat conf --port xxxx --host xxxx
 ```
 
->config.yaml 內容
+>config.yaml
 ```yaml
 server:
   host: 0.0.0.0   #server host

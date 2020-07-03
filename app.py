@@ -96,14 +96,12 @@ def conf(port, host):
     new_port = doc['server']['port']
     new_host = doc['server']['host']
 
-    if port or host:
-        click.echo(f"""
+    click.echo(f"""
     ------Change------
     port : {new_port}
     host : {new_host}
     ------------------
-                """
-        )
+    """)
 
 
 @app.route('/')

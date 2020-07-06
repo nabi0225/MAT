@@ -12,6 +12,10 @@ setuptools.setup(
         'confuse',
         'requests',
         'flask',
+        'flask-cors',
+        'shutil',
+        'yaml',
+        'os',
     ],
      entry_points='''
         [console_scripts]

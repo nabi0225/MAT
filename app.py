@@ -7,6 +7,7 @@ from flask import Flask, request, jsonify, Response
 from flask_cors import CORS
 import click
 import yaml
+import ruamel.yaml
 import os
 
 app = Flask(__name__)
@@ -46,8 +47,33 @@ def init():
         """
                    )
 
-        shutil.copytree(cur_dir + '/data', './data')
-        shutil.copyfile(cur_dir + '/config.yaml', './config.yaml')
+        example = {
+            'server': {
+                'host': '0.0.0.0',
+                'port': 8000,
+                'origin_proxy_url': 'http://xunya-apis.dev-ttmj.svc.cluster.local:8000',
+            },
+            'routes': [
+                {
+                    'listen_path': 'v2/showrooms/home/categories',
+                    'file_path': 'data/v2_showrooms_home_categories.json',
+                    'status_code': '200',
+                },
+                {
+                    'listen_path': 'v1/products/category',
+                    'file_path': 'data/v1_products_category.json',
+                    'query_params': {
+                        'categorycode': 'lottery'
+                    },
+                    'status_code': '200'
+                }
+            ]
+        }
+        f = open(r'.\config.yaml', 'w')
+        ruamel.yaml.round_trip_dump(example, f,default_flow_style=False)
+
+        # shutil.copytree(cur_dir + '/data', './data')
+        # shutil.copyfile(cur_dir + '/config.yaml', './config.yaml')
 
     click.echo("""
     ---使用 mat server 來啟動 mat

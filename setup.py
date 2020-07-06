@@ -13,7 +13,6 @@ setuptools.setup(
         'requests',
         'flask',
         'flask-cors',
-        'os',
     ],
      entry_points='''
         [console_scripts]

@@ -13,7 +13,6 @@ setuptools.setup(
         'requests',
         'flask',
         'flask-cors',
-        'shutil',
         'yaml',
         'os',
     ],

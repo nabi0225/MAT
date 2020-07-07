@@ -10,8 +10,8 @@ import yaml
 import ruamel.yaml
 import os
 
-# app = Flask(__name__)
-# CORS(app)
+app = Flask(__name__)
+CORS(app)
 
 config = confuse.Configuration('mat', __name__)
 

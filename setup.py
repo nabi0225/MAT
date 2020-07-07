@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
     name="MAT",
     version="0.0.1",
-    packages=setuptools.find_packages(),
+    packages=setuptools.find_packages('mat'),
     install_requires=[
         'Click',
         'confuse',

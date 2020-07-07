@@ -167,8 +167,4 @@ def _get_response_from_proxy_server(path):
 
 
 if __name__ == '__main__':
-    # app.run(
-    #     host=config['server']['host'].get(),
-    #     port=config['server']['port'].get(int),
-    # )
     cli()

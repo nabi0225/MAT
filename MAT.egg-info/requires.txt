@@ -1,0 +1,5 @@
+Click
+confuse
+requests
+flask
+flask_cors

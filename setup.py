@@ -15,8 +15,7 @@ setuptools.setup(
         'flask-cors',
     ],
      entry_points={'console_scripts':[
-         'mat=mat.app:cli',
+         'mat=app:cli',
      ]},
-    scripts=['mat/app.py'],
     python_requires='>=3.6',
 )

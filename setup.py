@@ -10,7 +10,7 @@ setuptools.setup(
         'requests',
         'flask',
     ],
-     entry_points='''
+    entry_points='''
         [console_scripts]
         mat=app:cli
     ''',

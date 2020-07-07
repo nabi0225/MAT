@@ -9,9 +9,10 @@ setuptools.setup(
         'confuse',
         'requests',
         'flask',
+        'flask_cors',
     ],
     entry_points='''
         [console_scripts]
-        mat=app:cli
+        mat=mat.app:cli
     ''',
 )

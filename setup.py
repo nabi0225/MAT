@@ -16,6 +16,6 @@ setuptools.setup(
     ],
     entry_points='''
         [console_scripts]
-        mat=app:cli
+        mat=mat.app:cli
     ''',
 )

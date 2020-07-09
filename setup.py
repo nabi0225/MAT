@@ -1,10 +1,16 @@
 import setuptools
+from glob import glob
+
+data = glob('data')
+config = glob('config.yaml')
 
 setuptools.setup(
     name="MAT",
     version="0.0.1",
-    packages=setuptools.find_packages(exclude=['config.yaml', 'data']),
-    package_data={'mat': ['config.yaml', 'data']},
+    package_data = {
+        '': data,
+        '': config,
+    },
     include_package_data=True,
     install_requires=[
         'Click',

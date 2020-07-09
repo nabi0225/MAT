@@ -5,10 +5,7 @@ setuptools.setup(
     version="0.0.1",
     url='https://github.com/nabi0225/MAT.git',
     packages=setuptools.find_packages(),
-    package_data={
-        'mat': ['data'],
-        'mat': ['config.yaml'],
-    }
+    include_package_data=True,
     py_modules=['app'],
     install_requires=[
         'Click',

@@ -1,8 +1,0 @@
-README.md
-setup.py
-MAT.egg-info/PKG-INFO
-MAT.egg-info/SOURCES.txt
-MAT.egg-info/dependency_links.txt
-MAT.egg-info/entry_points.txt
-MAT.egg-info/requires.txt
-MAT.egg-info/top_level.txt

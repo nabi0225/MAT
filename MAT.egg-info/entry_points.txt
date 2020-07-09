@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        mat=mat.app:cli
-    

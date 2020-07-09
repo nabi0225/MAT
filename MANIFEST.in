@@ -1,2 +1,2 @@
-include ./data
+include data
 include config.yaml

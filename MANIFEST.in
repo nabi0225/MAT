@@ -1,2 +1,2 @@
-include \data
+include mat\data
 include mat\config.yaml

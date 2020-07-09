@@ -5,7 +5,6 @@ setuptools.setup(
     version="0.0.1",
     packages=setuptools.find_packages(),
     include_package_data=True,
-    package_dir = {'': 'data'},
     install_requires=[
         'Click',
         'confuse',

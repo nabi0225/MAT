@@ -7,6 +7,7 @@ config = glob('config.yaml')
 setuptools.setup(
     name="MAT",
     version="0.0.1",
+    packages=setuptools.find_packages(),
     package_data = {
         '': data,
         '': config,

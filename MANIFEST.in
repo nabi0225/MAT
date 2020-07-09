@@ -1,5 +1,2 @@
-include ./
-include MANIFEST.in
-include README.md
 include ./data
 include config.yaml

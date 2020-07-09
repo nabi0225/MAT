@@ -6,7 +6,7 @@ setuptools.setup(
     url='https://github.com/nabi0225/MAT.git',
     packages=setuptools.find_packages(),
     include_package_data=True,
-    py_modules=['app'],
+    py_modules=['mat'],
     install_requires=[
         'Click',
         'confuse',

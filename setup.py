@@ -17,5 +17,4 @@ setuptools.setup(
         [console_scripts]
         mat=app:cli
     ''',
-    python_requires='>=3.6',
 )

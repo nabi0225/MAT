@@ -4,7 +4,8 @@ setuptools.setup(
     name="MAT",
     version="0.0.1",
     packages=setuptools.find_packages(),
-    include_package_data=True,
+    package_dir={'': 'mat/config.yaml'},
+    package_data={'': ['mat/data/*.json']},
     install_requires=[
         'Click',
         'confuse',

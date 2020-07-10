@@ -1,2 +1,0 @@
-recursive-include mat\data *.json
-include mat\config.yaml

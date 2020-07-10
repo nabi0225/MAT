@@ -5,7 +5,7 @@ setuptools.setup(
     version="0.0.1",
     packages=setuptools.find_packages(),
     package_data={
-        'data': ['*.json'],
+        'data': ['data/*.json'],
         '': ['*.yaml'],
     },
     install_requires=[

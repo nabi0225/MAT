@@ -13,7 +13,8 @@ app = Flask(__name__)
 CORS(app)
 
 config = confuse.Configuration('mat', __name__)
-
+filepath_conf = 'config.yaml'
+filepath_data = 'data'
 
 @click.group()
 @click.option('-mat/-', default=False)
@@ -30,30 +31,31 @@ def cli(mat):
 
 @cli.command('init', short_help='初始化，建立 config file 和 data file')
 def init():
-    filepath = 'config.yaml'
     cur_dir = os.path.dirname(os.path.realpath(__file__))
-    if os.path.exists(filepath):
 
-        click.echo("""
-    ---config file 已存在
-        """
-                   )
-        pass
+    if os.path.exists(filepath_conf) == False:
 
-    else:
+        shutil.copyfile(cur_dir + '/config.yaml', './config.yaml')
         click.echo(f"""
-    ---建立 "config.yaml" 和 "data" 為範例
+    ---建立 config file 為範例
     ---mat : {cur_dir}
         """
                    )
 
+    if os.path.exists(filepath_data) == False:
+
         shutil.copytree(cur_dir + '/data', './data')
-        shutil.copyfile(cur_dir + '/config.yaml', './config.yaml')
+        click.echo(f"""
+    ---建立 data file 為範例
+    ---mat : {cur_dir}
+        """
+                    )
 
     click.echo("""
     ---使用 mat server 來啟動 mat
     """
                )
+
 
 
 @cli.command('server', short_help='啟動 mat')
@@ -70,6 +72,14 @@ def server():
 @click.option('--port', help='更改設定檔的 port')
 @click.option('--host', help='更改設定檔的 host')
 def conf(port, host):
+    
+    if os.path.exists(filepath_conf) == False:
+
+        click.echo("""
+    ---尚未建立 config file ， 使用 mat init 建立
+        """
+                   )
+        return
 
     with open("./config.yaml", 'r', encoding="utf-8") as fr:
         doc = yaml.load(fr)

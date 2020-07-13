@@ -8,13 +8,14 @@ from flask_cors import CORS
 import click
 import yaml
 import os
-##
+
 app = Flask(__name__)
 CORS(app)
 
 config = confuse.Configuration('mat', __name__)
 filepath_conf = 'config.yaml'
 filepath_data = 'data'
+
 
 @click.group()
 @click.option('-mat/-', default=False)
@@ -57,7 +58,6 @@ def init():
                )
 
 
-
 @cli.command('server', short_help='啟動 mat')
 def server():
     config.set_file('./config.yaml')
@@ -72,7 +72,7 @@ def server():
 @click.option('--port', help='更改設定檔的 port')
 @click.option('--host', help='更改設定檔的 host')
 def conf(port, host):
-    
+
     if os.path.exists(filepath_conf) == False:
 
         click.echo("""
@@ -82,7 +82,7 @@ def conf(port, host):
         return
 
     with open("./config.yaml", 'r', encoding="utf-8") as fr:
-        doc = yaml.load(fr)
+        doc = yaml.load(fr,Loader=yaml.FullLoader)
 
     temp_port = doc['server']['port']
     temp_host = doc['server']['host']
@@ -144,6 +144,7 @@ def proxy(path):
 
 def _get_mock_response(path):
     # Fake API 只支援 GET
+    config.set_file('./config.yaml')
     if request.method != 'GET':
         return None
 
@@ -163,6 +164,7 @@ def _get_mock_response(path):
 
 
 def _get_response_from_proxy_server(path):
+    config.set_file('./config.yaml')
     origin_proxy_url = config['server']['origin_proxy_url'].get()
     data = request.stream.read()
     req = requests.Request(

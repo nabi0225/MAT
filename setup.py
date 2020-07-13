@@ -5,7 +5,7 @@ setuptools.setup(
     version="0.0.1",
     packages=setuptools.find_packages(),
     package_data={
-        'data':['*.json'],
+        'mat':['data/*.json'],
         '': ['*.yaml'],
     },
     install_requires=[
@@ -17,6 +17,6 @@ setuptools.setup(
     ],
     entry_points='''
         [console_scripts]
-        mat=app:cli
+        mat=mat.app:cli
     ''',
 )

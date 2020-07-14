@@ -60,6 +60,16 @@ def init():
 
 @cli.command('server', short_help='啟動 mat')
 def server():
+
+
+    if os.path.exists(filepath_conf) == False:
+
+        click.echo(f"""
+    ---尚未建立 config file ， 使用 mat init 建立
+        """
+                   )
+
+
     config.set_file('./config.yaml')
     click.echo('server...')
     app.run(
